@@ -1,11 +1,11 @@
 ﻿{
-   "ИмяСборки":"Сборка 8.3.7 UF",
-   "ВерсияПлатформы":"8.3.7",
+   "ИмяСборки":"Сборка 8.3.10 UF",
+   "ВерсияПлатформы":"8.3.10",
    "ВыводитьСообщенияВФайл": "$workspaceRoot/../message.txt",
    "EpfДляИнициализацияБазы": "$workspaceRoot/epf/init.epf",
    "ПараметрыДляИнициализацияБазы": "$workspaceRoot/epf/init.json",
    "ПутьКVanessaBehavior": "$workspaceRoot/vanessa-behavior.epf",
-   "КаталогФич": "$workspaceRoot/features/StepsRunner",
+   "КаталогФич": "$workspaceRoot/features/",
    "КаталогиБиблиотек":[
    "$workspaceRoot/features/Libraries/"
    ],
